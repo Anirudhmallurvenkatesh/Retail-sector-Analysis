@@ -1,0 +1,2 @@
+# Retail-sector-Analysis
+In Retail Sector, it is potential to unlock insights to win and retain customers, drive business efficiencies and ultimately improve performance in terms of sales and customer interest. Beyond the hype, retail organization are using advance analysis to do everything from understanding their customers to improve forecasting, driving better , faster results. Since the resources that a company has are limited, it is vital to find these customers and target them to win customer loyalty, drive business efficiencies and ultimately improve performance.
