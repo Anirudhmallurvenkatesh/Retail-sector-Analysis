@@ -18,3 +18,7 @@ Government may change Foreign Direct Investment (FDI) rules in food processing i
 Government of India has allowed 100% FDI in online retail of goods and services through the automatic route, thereby providing clarity on the existing businesses of E-commerce companies operating in India.
 The government’s focus to improve digital infrastructure in Tier 2 and Tier 3 markets would be favourable to the sector.
 The Minister of MSME announced inclusion of retail and wholesale trades as MSMEs. Retail and wholesale trade will now get the benefit of priority sector lending under the RBI guidelines.
+
+Time series using RFM
+
+![image](https://user-images.githubusercontent.com/87572274/139818584-9d69495a-bd13-4613-a790-0a9c1ce9700c.png)
